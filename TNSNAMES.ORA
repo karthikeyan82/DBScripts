@@ -1,1 +1,1 @@
-csard02r=(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(Host = scan-pzendb001x.pldc.kp.org)(PORT = 1521)) (CONNECT_DATA = (SERVICE_NAME = csard02r.pldc.kp.org) (SERVER = DEDICATED) ))
+csard02r=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=scan-pzendb001x.pldc.kp.org)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=csard02r.pldc.kp.org)(SERVER=DEDICATED)))
